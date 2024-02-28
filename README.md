@@ -1,0 +1,2 @@
+# Racunarski-vid
+numpy
